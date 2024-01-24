@@ -1,0 +1,5 @@
+scheduling:
+  scdf:
+    taskName: your-task-name
+    applicationName: your-batch-application-name
+    scheduleTime: 100000
